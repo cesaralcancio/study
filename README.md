@@ -19,3 +19,6 @@ https://medium.com/the-node-js-collection/modern-javascript-explained-for-dinosa
 
 # Study Roadmap
 https://github.com/kamranahmedse/developer-roadmap - Nice guide to study
+
+# Database
+https://adamatti.github.io/blog/database/2017/07/16/teorema-cap.html - Teorema CAP
